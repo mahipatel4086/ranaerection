@@ -438,6 +438,19 @@ html {
     margin: 0;
 }
 
+.contact-info-card p a,
+.footer-contact a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.contact-info-card p a:hover,
+.footer-contact a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
 .contact-form-card {
     background: var(--white);
     padding: 2.5rem;
