@@ -94,7 +94,7 @@ html {
     min-height: 90vh;
     height: 90vh;
     background: linear-gradient(135deg, rgba(11, 61, 107, 0.65) 0%, rgba(5, 30, 55, 0.75) 100%),
-                url('https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1920') center/cover no-repeat;
+                url('../images/img1.jpeg') center/cover no-repeat;
     display: flex;
     align-items: center;
     position: relative;
